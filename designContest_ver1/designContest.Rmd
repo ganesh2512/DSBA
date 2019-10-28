@@ -22,9 +22,9 @@ library(flexdashboard)
 <p align=right>-Presented by<br>
 <i>Roma Dutta</i><br>
 <i>Ganesh Viswanathan</i><br>
-GitHub-https://github.com/ganesh2512/DSBA/tree/master/designContest_Ganesh_Roma
+GitHub-https://github.com/ganesh2512/DSBA/tree/master/designContest_ver1
 <br>
-TidyTuesday#-spren9er
+TidyTuesday#-https://twitter.com/spren9er/status/1115717009814228993?s=20<br>
 RStudioLink-https://rstudio.cloud/project/642289</p>
 
 </font>
